@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 hello world
 nothing could be batter!
+=======
+hello world!
+could you tell me why?
+i am fine,thank you!
+>>>>>>> dav
